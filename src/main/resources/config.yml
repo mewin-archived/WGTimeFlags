@@ -1,0 +1,9 @@
+# Default configuration for WGTimeFlags
+# This plugin uses YAML to save its configuration.
+# If you edit always make sure it is YAML conform. You can use an online YAML parser to check your syntax.
+# Always use spaces and make sure not to use tabulators. Some editors do that automatically, so it is often better to check it again.
+
+# Sets the interval for the plugin to reset any player's time according to the flags of his current region
+# value is an integer (in milliseconds)
+# default value is 1000
+time-check-interval: 1000

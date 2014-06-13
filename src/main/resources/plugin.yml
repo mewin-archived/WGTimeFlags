@@ -1,0 +1,9 @@
+name: WGTimeFlags
+authors: [ mewin ]
+version: 0.1
+main: de.mewin.wgtf.WGTimeFlagsPlugin
+depend: [ WGCustomFlags, WorldGuard, WGRegionEvents ]
+
+permissions:
+  wgtimeflags.ignore:
+    default: false
