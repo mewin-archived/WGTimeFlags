@@ -4,7 +4,7 @@
 
   <groupId>de.mewin</groupId>
   <artifactId>WGTimeFlags</artifactId>
-  <version>0.1</version>
+  <version>0.2</version>
   <packaging>jar</packaging>
 
   <name>WGTimeFlags</name>
@@ -54,7 +54,7 @@
         <dependency>
             <groupId>com.sk89q</groupId>
             <artifactId>worldguard</artifactId>
-            <version>5.8-SNAPSHOT</version>
+            <version>6.0.0-SNAPSHOT</version>
             <type>jar</type>
             <scope>compile</scope>
             <exclusions>
@@ -96,7 +96,7 @@
         <dependency>
             <groupId>com.mewin</groupId>
             <artifactId>WGCustomFlags</artifactId>
-            <version>1.7.1</version>
+            <version>1.8.1-beta</version>
             <type>jar</type>
         </dependency>
         <!-- WGRegionEvents dependency -->
